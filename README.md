@@ -2,7 +2,7 @@
 > A Flutter Chat App offering group chat.
 ## Technologies
 * Firebase (Firestore,Authentication)
-* Hero animation and custom animation
+* Hero animation and other Custom animation
 * Mixins
 * Streams
 * ListView
